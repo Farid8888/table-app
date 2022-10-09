@@ -1,5 +1,6 @@
 import React from 'react'
 import Table from '../components/Table'
+import axios from 'axios'
 
 export default function index(props) {
   const dataPag = props.data.slice(0,6)

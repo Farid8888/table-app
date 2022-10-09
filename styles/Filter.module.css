@@ -1,0 +1,14 @@
+.option{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10rem;
+    max-width: 90%;
+    margin-left: 2rem;
+  }
