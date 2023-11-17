@@ -55,6 +55,7 @@ export default function Table(props) {
     }
   }, [sorting, name, props.pagCount, inputValue, dispatch]);
 
+  
   return (
     <div className={classes.pag}>
       <div className={classes.table}>
